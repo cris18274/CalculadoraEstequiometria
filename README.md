@@ -1,5 +1,3 @@
-# CalculadoraEstequiometria
-
 # Calculadora de Estequiometría
 
 Esta es una calculadora de estequiometría simple escrita en Python utilizando Tkinter. Permite al usuario ingresar una ecuación química con reactantes y productos, y muestra la ecuación balanceada como resultado.
